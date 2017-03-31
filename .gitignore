@@ -31,3 +31,7 @@ obj/Debug/TestDialog.g.cs
 obj/Debug/TestWPL_MaterialDesign_MarkupCompile.cache
 obj/Debug/TestWPL_MaterialDesign.Properties.Resources.resources
 obj/Debug/TestWPL_MaterialDesign.pdb
+.vs/TestWPF_MaterialDesign/v14/.suo
+obj/Debug/TestWPF_MaterialDesign.csproj.FileListAbsolute.txt
+obj/Debug/TestWPF_MaterialDesign.csproj.GenerateResource.Cache
+obj/Debug/TestWPF_MaterialDesign.csprojResolveAssemblyReference.cache
